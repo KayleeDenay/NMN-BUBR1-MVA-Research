@@ -12,7 +12,7 @@ Mosaic variegated aneuploidy (MVA) associated with biallelic **BUB1B** variants 
 ## Mechanistic rationale
 NMN → NAD⁺ metabolism → SIRT2-dependent BUBR1 regulation → potentially greater functional BUBR1 abundance → **hypothesized**, not established, improvement in spindle checkpoint activity and chromosome segregation.
 
-![Proposed NMN–BUBR1 pathway](figures/NMN_BUBR1_Pathway.png)
+
 
 ## Evidence and limitations
 - **Hanks et al. (2004):** genetic evidence connecting biallelic BUB1B mutations with constitutional aneuploidy/MVA.
@@ -21,20 +21,23 @@ NMN → NAD⁺ metabolism → SIRT2-dependent BUBR1 regulation → potentially g
 - **Not established:** NMN-mediated checkpoint rescue, improved segregation, or patient benefit in MVA.
 - **Key caveat:** stabilization may be ineffective if full-length functional BUBR1 is absent.
 
-See [references](docs/REFERENCES.md) and [research methodology](docs/METHODOLOGY.md).
+
 
 ## Proposed validation
 Compare healthy reference cells; MVA vehicle controls; MVA + NMN; MVA + functional BUBR1 restoration; MVA + combination; and MVA + NMN with SIRT2 function disrupted.
 
 **Primary endpoint:** chromosome segregation error frequency. **Secondary endpoints:** full-length BUBR1 abundance, spindle checkpoint function, SIRT2 dependence, and cell health. A protein increase alone does **not** establish functional rescue.
 
-## Files
-- [Full report (PDF)](report/Research_Report.pdf)
-- [Editable report (Word)](report/Research_Report.docx)
-- [Pathway figure](figures/NMN_BUBR1_Pathway.png)
-- [References](docs/REFERENCES.md)
-- [Methods and proposed study](docs/METHODOLOGY.md)
-- [Privacy and scope notes](docs/PRIVACY.md)
+![Proposed NMN–BUBR1 pathway](NMN_BUBR1_Pathway.png)
 
+See [references](REFERENCES.md) and [research methodology](METHODOLOGY.md).
+
+## Files
+- [Full report (PDF)](Research_Report.pdf)
+- [Editable report (Word)](Research_Report.docx)
+- [Pathway figure](NMN_BUBR1_Pathway.png)
+- [References](REFERENCES.md)
+- [Methods and proposed study](METHODOLOGY.md)
+- [Privacy and scope notes](PRIVACY.md)
 ## Status
 Literature-based hypothesis and conceptual experiment design only; no clinical recommendation, new data, or validated therapy.
